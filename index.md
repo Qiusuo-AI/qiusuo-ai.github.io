@@ -12,7 +12,7 @@
 
 ### b. 领先学者&团队
 
-- [https://mp.weixin.qq.com/s/wPERHtxGLAfFi3qKLghTXw](The Best Paper Award (2022) 学术沙龙活动), Jan 12, 2023.
+- [The Best Paper Award (2022) 学术沙龙活动](https://mp.weixin.qq.com/s/wPERHtxGLAfFi3qKLghTXw), Jan 12, 2023.
 - [汪军教授组织了7位AI学者，论道ChatGPT后的通用人工智能理论和应用](https://mp.weixin.qq.com/s/KrN5KTBl2mAGAvKJHDDfwA), Mar 27, 2023.
 - [明天10点来与五位来自学术、产业、投资界大佬们一起思辨大模型](https://mp.weixin.qq.com/s/kmpG6djXd6zZO5ybWRIrzw), Mar 27, 2023.
 - [GPT-4的研究路径没有前途？Yann LeCun给自回归判了死刑](https://mp.weixin.qq.com/s/m943KNGUzFqu62lAlyl5-A), Mar 27, 2023.
