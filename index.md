@@ -8,6 +8,7 @@
 - [OpenAI创始人：GPT-4的研究起源和构建心法](https://mp.weixin.qq.com/s/hO1ZdqgOjpA328luobQ9eg), Mar 20, 2023.
 - [ChatGPT崩了！全球宕机超12小时，打工人叫苦连天](https://mp.weixin.qq.com/s/bctQc93slqYEu8UKaNhekg), Mar 21, 2023.
 - [ChatGPT全宇宙大爆炸！开启联网解除封印，无敌插件彻底颠覆体验](https://mp.weixin.qq.com/s/Rh1j47aVoAAtd5cLX3hhrA), Mar 24, 2023.
+- [GPT-4苏醒，AI要「杀」人？Hinton、ChatGPT之父预警，LeCun怒怼：不如我家狗](https://mp.weixin.qq.com/s/-a091kTCupxRbiTmU2IilA), Mar 28, 2023.
 
 ### b. 领先学者&团队
 
@@ -65,6 +66,7 @@
 ### a. 自动驾驶
 
 - [强化学习再登Nature封面，自动驾驶安全验证新范式大幅减少测试里程](https://mp.weixin.qq.com/s/Y2Mka8VYPLSSKL2Z0GonBw), Mar 23, 2023.
+- [两万字详解自动驾驶开发工具链的现状与趋势！](https://mp.weixin.qq.com/s/vvRvKLzGaroChZYgi-YzZw), Mar 28, 2023.
 
 ### b. 双目视觉
 
