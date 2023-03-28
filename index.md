@@ -21,7 +21,7 @@
 
 - [欢迎注册2023智源大会，6大精彩看点即将揭晓](https://mp.weixin.qq.com/s/_mtGdUEglUWY7cT4I13VQA), Mar 28, 2023.
 
-##　1. 机器学习技术
+## 1. 机器学习技术
 
 ### a. 机器学习技术
 
@@ -30,7 +30,7 @@
 ### b. 深度学习技术
 
 - [液态神经网络：机器学习的未来？](https://mp.weixin.qq.com/s/wPERHtxGLAfFi3qKLghTXw), Mar 22, 2023.
-- [ICML 2022 | 基于解耦梯度优化的可迁移模仿学习方法](https://mp.weixin.qq.com/s/tLCVdCCod9Bl_LoDHzn6iQ), June 28, 2022.
+- [ICML 2022 \| 基于解耦梯度优化的可迁移模仿学习方法](https://mp.weixin.qq.com/s/tLCVdCCod9Bl_LoDHzn6iQ), June 28, 2022.
 - [神经系统计算概率时加速采样的机制](https://mp.weixin.qq.com/s/wIkEbQGWPmrTA_60zMWtsQ), Oct 20, 2022.
 
 ### c. 大模型技术
@@ -38,7 +38,7 @@
 ### d. 强化学习
 
 - [Provably Efficient Exploration in Quantum Reinforcement Learning with  Logarithmic Worst-Case Regret](https://www.aminer.cn/pub/63f5888390e50fcafd27c79c/provably-efficient-exploration-in-quantum-reinforcement-learning-with-logarithmic-worst-case-regret), arXiv 2023.
-- [SIGKDD 2022 | 利用奖励序列分布的特征函数学习任务相关表征以提升强化学习泛化性](https://mp.weixin.qq.com/s/XJFqJR2uHZqd1L7T815BVQ), May 28, 2022.
+- [SIGKDD 2022 \| 利用奖励序列分布的特征函数学习任务相关表征以提升强化学习泛化性](https://mp.weixin.qq.com/s/XJFqJR2uHZqd1L7T815BVQ), May 28, 2022.
 
 ### e. 图神经网络
 
