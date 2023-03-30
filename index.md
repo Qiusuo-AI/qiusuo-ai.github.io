@@ -80,7 +80,7 @@
 ### a. 计算生物
 
 - [Disentangling with Biological Constraints: A Theory of Functional Cell  Types](https://www.aminer.cn/pub/633cf5d490e50fcafd7734e7/disentangling-with-biological-constraints-a-theory-of-functional-cell-types), ICLR 2023.
-- - [仅用一个晚上，ChatGPT助我搭建蛋白质结合探索神器](https://mp.weixin.qq.com/s/pG8iJ5ntst6shBdlbqW0sg), Mar 20, 2023.
+- [仅用一个晚上，ChatGPT助我搭建蛋白质结合探索神器](https://mp.weixin.qq.com/s/pG8iJ5ntst6shBdlbqW0sg), Mar 20, 2023.
 
 ### b. 医疗制药
 
