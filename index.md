@@ -1,5 +1,10 @@
 # AI 栏目
 
+Research Areas & Progress
+- [Google Research](https://research.google/research-areas/)
+- [Open AI](https://openai.com/research)
+
+
 ## 1. 新闻活动类
 
 ### a. 专家意见
