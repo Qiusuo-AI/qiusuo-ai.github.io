@@ -1,6 +1,60 @@
-# AI News
+# AI 栏目
 
-## 1. 机器学习技术
+## 1. 新闻活动类
+
+### a. 专家意见
+- [GPT-4的研究路径没有前途？Yann LeCun给自回归判了死刑](https://mp.weixin.qq.com/s/m943KNGUzFqu62lAlyl5-A), Mar 27, 2023.
+- [Sam Altman专访：GPT-4没太让我惊讶，ChatGPT则让我喜出望外](https://mp.weixin.qq.com/s/Bgikri-FZo7TGZwBaEB2Rw), Mar 28, 2023.
+
+### b. 研讨会、沙龙
+- [The Best Paper Award (2022) 学术沙龙活动](https://mp.weixin.qq.com/s/wPERHtxGLAfFi3qKLghTXw), Jan 12, 2023.
+- [汪军教授组织了7位AI学者，论道ChatGPT后的通用人工智能理论和应用](https://mp.weixin.qq.com/s/KrN5KTBl2mAGAvKJHDDfwA), Mar 27, 2023.
+- [明天10点来与五位来自学术、产业、投资界大佬们一起思辨大模型](https://mp.weixin.qq.com/s/kmpG6djXd6zZO5ybWRIrzw), Mar 27, 2023.
+- [欢迎注册2023智源大会，6大精彩看点即将揭晓](https://mp.weixin.qq.com/s/_mtGdUEglUWY7cT4I13VQA), Mar 28, 2023.
+
+### c. 研究报告发布
+
+## 2. 前沿技术功能类
+
+
+
+## 3. 行业应用类
+
+### a. 计算生物
+
+- [Disentangling with Biological Constraints: A Theory of Functional Cell  Types](https://www.aminer.cn/pub/633cf5d490e50fcafd7734e7/disentangling-with-biological-constraints-a-theory-of-functional-cell-types), ICLR 2023.
+- [仅用一个晚上，ChatGPT助我搭建蛋白质结合探索神器](https://mp.weixin.qq.com/s/pG8iJ5ntst6shBdlbqW0sg), Mar 20, 2023.
+
+### b. 医疗制药
+
+### c. 金融量化
+
+### d. 交通
+#### i. 自动驾驶
+- [强化学习再登Nature封面，自动驾驶安全验证新范式大幅减少测试里程](https://mp.weixin.qq.com/s/Y2Mka8VYPLSSKL2Z0GonBw), Mar 23, 2023.
+- [两万字详解自动驾驶开发工具链的现状与趋势！](https://mp.weixin.qq.com/s/vvRvKLzGaroChZYgi-YzZw), Mar 28, 2023.
+
+
+
+## 4. 能力 & 风险
+
+### a. 伦理与安全
+- [GPT-4苏醒，AI要「杀」人？Hinton、ChatGPT之父预警，LeCun怒怼：不如我家狗](https://mp.weixin.qq.com/s/-a091kTCupxRbiTmU2IilA), Mar 28, 2023.
+### b. 泛化能力
+### c. 鲁棒性
+### d. 因果推断
+- [论文清单：一文梳理因果推理在自然语言处理中的应用](https://mp.weixin.qq.com/s/Wm9Xk9ND_s92gZa3muOWhw), Mar 18, 2023.
+- [Nature：为什么人工智能需要理解因果？](https://mp.weixin.qq.com/s/MijigyNpsfPj9vID7L588g), Mar 06, 2023.
+### e. 可解释性
+
+
+
+
+
+
+
+
+## 2. 机器学习技术
 
 ### a. 机器学习技术
 
@@ -43,59 +97,13 @@
 
 - [对话系统答非所问？快试试这篇ACL'21的连贯性评估大法](https://mp.weixin.qq.com/s/rbh91y3c1L24x5wtDqOOlA), June 15, 2021.
 
-## 3. 3D视觉
 
-### a. 自动驾驶
 
-- [强化学习再登Nature封面，自动驾驶安全验证新范式大幅减少测试里程](https://mp.weixin.qq.com/s/Y2Mka8VYPLSSKL2Z0GonBw), Mar 23, 2023.
-- [两万字详解自动驾驶开发工具链的现状与趋势！](https://mp.weixin.qq.com/s/vvRvKLzGaroChZYgi-YzZw), Mar 28, 2023.
 
-### b. 双目视觉
-
-### c. 超分辨率
-
-## 4. 可信人工智能
-
-### a. 可解释性
-
-### b. 因果推断
-
-- [论文清单：一文梳理因果推理在自然语言处理中的应用](https://mp.weixin.qq.com/s/Wm9Xk9ND_s92gZa3muOWhw), Mar 18, 2023.
-- [Nature：为什么人工智能需要理解因果？](https://mp.weixin.qq.com/s/MijigyNpsfPj9vID7L588g), Mar 06, 2023.
-
-### c. 人工智能伦理
-
-### d. 人工智能安全
-
-- [GPT-4苏醒，AI要「杀」人？Hinton、ChatGPT之父预警，LeCun怒怼：不如我家狗](https://mp.weixin.qq.com/s/-a091kTCupxRbiTmU2IilA), Mar 28, 2023.
-
-### e. 鲁棒性
 
 ### f. 不确定性
 
 - [使用Dirichlet元模型的Post-hoc不确定性学习，可提高机器学习的可靠性](https://mp.weixin.qq.com/s/PM7cJPim2PKrt0Nch4VSnA), Mar 21, 2023.
 
-## 5. 前沿交叉
 
-### a. 计算生物
 
-- [Disentangling with Biological Constraints: A Theory of Functional Cell  Types](https://www.aminer.cn/pub/633cf5d490e50fcafd7734e7/disentangling-with-biological-constraints-a-theory-of-functional-cell-types), ICLR 2023.
-- [仅用一个晚上，ChatGPT助我搭建蛋白质结合探索神器](https://mp.weixin.qq.com/s/pG8iJ5ntst6shBdlbqW0sg), Mar 20, 2023.
-
-### b. 医疗制药
-
-### c. 金融量化
-
-## 6. AI领域活动
-
-### a. 学者&团队
-
-- [The Best Paper Award (2022) 学术沙龙活动](https://mp.weixin.qq.com/s/wPERHtxGLAfFi3qKLghTXw), Jan 12, 2023.
-- [汪军教授组织了7位AI学者，论道ChatGPT后的通用人工智能理论和应用](https://mp.weixin.qq.com/s/KrN5KTBl2mAGAvKJHDDfwA), Mar 27, 2023.
-- [明天10点来与五位来自学术、产业、投资界大佬们一起思辨大模型](https://mp.weixin.qq.com/s/kmpG6djXd6zZO5ybWRIrzw), Mar 27, 2023.
-- [GPT-4的研究路径没有前途？Yann LeCun给自回归判了死刑](https://mp.weixin.qq.com/s/m943KNGUzFqu62lAlyl5-A), Mar 27, 2023.
-- [Sam Altman专访：GPT-4没太让我惊讶，ChatGPT则让我喜出望外](https://mp.weixin.qq.com/s/Bgikri-FZo7TGZwBaEB2Rw), Mar 28, 2023.
-
-### b. 大会
-
-- [欢迎注册2023智源大会，6大精彩看点即将揭晓](https://mp.weixin.qq.com/s/_mtGdUEglUWY7cT4I13VQA), Mar 28, 2023.
